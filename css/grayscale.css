@@ -30,6 +30,7 @@ h6 {
 }
 
 p {
+    font-family: Open Sans;
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
@@ -374,4 +375,8 @@ body {
 #homeLogo {
   width: auto;
   height:25px;
+}
+
+.name {
+  color: #6ebaee;
 }
