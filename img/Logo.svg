@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="171px" height="84px" viewBox="0 0 171 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+<svg width="79px" height="39px" viewBox="0 0 79 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
     <title>m + Oval 163 + Oval 163</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="0-loading" sketch:type="MSArtboardGroup" transform="translate(-106.000000, -306.000000)">
-            <g id="m-+-Oval-163-+-Oval-163" sketch:type="MSLayerGroup" transform="translate(98.000000, 237.000000)">
-                <text id="m" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="156.94382" font-weight="bold" sketch:alignment="middle" fill="#2C3E50">
-                    <tspan x="0.941034804" y="153">m</tspan>
+        <g id="0-loading" sketch:type="MSArtboardGroup" transform="translate(-150.000000, -320.000000)">
+            <g id="m-+-Oval-163-+-Oval-163" sketch:type="MSLayerGroup" transform="translate(147.000000, 289.000000)">
+                <text id="m" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="72" font-weight="bold" sketch:alignment="middle" fill="#EEEEEE">
+                    <tspan x="0.384" y="70">m</tspan>
                 </text>
-                <ellipse id="Oval-163" fill="#6BB9F0" sketch:type="MSShapeGroup" cx="168.085366" cy="130.786517" rx="10.9146341" ry="10.8988764"></ellipse>
-                <ellipse id="Oval-163" fill="#6BB9F0" sketch:type="MSShapeGroup" cx="168.085366" cy="95.9101124" rx="10.9146341" ry="10.8988764"></ellipse>
+                <circle id="Oval-163" fill="#6BB9F0" sketch:type="MSShapeGroup" cx="77" cy="60" r="5"></circle>
+                <circle id="Oval-163" fill="#6BB9F0" sketch:type="MSShapeGroup" cx="77" cy="44" r="5"></circle>
             </g>
         </g>
     </g>
