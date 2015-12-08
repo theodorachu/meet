@@ -1,3 +1,6 @@
+# meet
+This is a website for meet, an iPhone app that makes meetings purposeful again by transforming the way people schedule and perceive meetings.
+
 # Template Credits
 
   # [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
@@ -27,4 +30,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
 =======
-# meet
